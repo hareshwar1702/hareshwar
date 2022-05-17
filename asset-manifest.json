@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/iot-station/static/css/main.e2aa93fc.css",
+    "main.js": "/iot-station/static/js/main.43b16dc9.js",
+    "static/js/630.0e4ff035.chunk.js": "/iot-station/static/js/630.0e4ff035.chunk.js",
+    "static/js/738.b3846c7f.chunk.js": "/iot-station/static/js/738.b3846c7f.chunk.js",
+    "static/js/372.c58fda02.chunk.js": "/iot-station/static/js/372.c58fda02.chunk.js",
+    "static/js/856.aff68dbe.chunk.js": "/iot-station/static/js/856.aff68dbe.chunk.js",
+    "static/js/22.3fa349ae.chunk.js": "/iot-station/static/js/22.3fa349ae.chunk.js",
+    "static/js/851.733b00fc.chunk.js": "/iot-station/static/js/851.733b00fc.chunk.js",
+    "static/js/215.b778d57c.chunk.js": "/iot-station/static/js/215.b778d57c.chunk.js",
+    "static/js/841.4a164c8a.chunk.js": "/iot-station/static/js/841.4a164c8a.chunk.js",
+    "static/js/186.90039784.chunk.js": "/iot-station/static/js/186.90039784.chunk.js",
+    "static/js/377.6cc87abc.chunk.js": "/iot-station/static/js/377.6cc87abc.chunk.js",
+    "service-worker.js": "/iot-station/service-worker.js",
+    "static/media/bg.jpg": "/iot-station/static/media/bg.54076afd374db80024a4.jpg",
+    "index.html": "/iot-station/index.html",
+    "main.e2aa93fc.css.map": "/iot-station/static/css/main.e2aa93fc.css.map",
+    "main.43b16dc9.js.map": "/iot-station/static/js/main.43b16dc9.js.map",
+    "630.0e4ff035.chunk.js.map": "/iot-station/static/js/630.0e4ff035.chunk.js.map",
+    "738.b3846c7f.chunk.js.map": "/iot-station/static/js/738.b3846c7f.chunk.js.map",
+    "372.c58fda02.chunk.js.map": "/iot-station/static/js/372.c58fda02.chunk.js.map",
+    "856.aff68dbe.chunk.js.map": "/iot-station/static/js/856.aff68dbe.chunk.js.map",
+    "22.3fa349ae.chunk.js.map": "/iot-station/static/js/22.3fa349ae.chunk.js.map",
+    "851.733b00fc.chunk.js.map": "/iot-station/static/js/851.733b00fc.chunk.js.map",
+    "215.b778d57c.chunk.js.map": "/iot-station/static/js/215.b778d57c.chunk.js.map",
+    "841.4a164c8a.chunk.js.map": "/iot-station/static/js/841.4a164c8a.chunk.js.map",
+    "186.90039784.chunk.js.map": "/iot-station/static/js/186.90039784.chunk.js.map",
+    "377.6cc87abc.chunk.js.map": "/iot-station/static/js/377.6cc87abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2aa93fc.css",
+    "static/js/main.43b16dc9.js"
+  ]
+}
